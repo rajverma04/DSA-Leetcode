@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
 | ------- |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->

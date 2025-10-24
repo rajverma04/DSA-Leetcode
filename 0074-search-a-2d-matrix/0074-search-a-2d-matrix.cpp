@@ -6,7 +6,8 @@ public:
         int row, col;
         while(start <= end) {
             mid = (start + end) / 2;
-
+            
+            // to get row & col using linear indexing
             row = mid / matrix[0].size();
             col = mid % matrix[0].size();
 

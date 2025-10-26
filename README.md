@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/rajverma04/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Backtracking
 |  |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0027-remove-element) |
+| [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajverma04/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

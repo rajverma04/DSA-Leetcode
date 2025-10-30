@@ -7,7 +7,7 @@ public:
 
         int minCol = INT_MAX;
         for(int i = 0; i < strs.size(); i++) {
-            if(minCol > strs[i].size()) {
+            if(minCol > strs[i].size()) {   // to get the size of min length of string
                 minCol = strs[i].size();
             }
         }
@@ -16,12 +16,12 @@ public:
             char currentChar = strs[0][col];
             for(int row = 1; row < strs.size(); row++) {
                 if(strs[row][col] != currentChar) {
-                    return strs[0].substr(0, count);
+                    return strs[0].substr(0, count);    // if early mismatch is found in array
                 }
             }
             count++;
         }
 
-        return strs[0].substr(0, count);
+        return strs[0].substr(0, count);    // if there is no mismatch
     }
 };

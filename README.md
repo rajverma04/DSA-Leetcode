@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0136-single-number) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |

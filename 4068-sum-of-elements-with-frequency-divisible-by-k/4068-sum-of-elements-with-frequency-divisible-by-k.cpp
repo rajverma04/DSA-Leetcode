@@ -8,8 +8,8 @@ public:
         }
 
         for(auto pair : freq) {
-            if(pair.second % k == 0) {
-                sum += pair.first * pair.second;
+            if(pair.second % k == 0) {      // if value is divisible by k
+                sum += pair.first * pair.second;    // then calculate sum
             }
         }
 

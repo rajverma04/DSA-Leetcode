@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/rajverma04/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
 ## Backtracking
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |

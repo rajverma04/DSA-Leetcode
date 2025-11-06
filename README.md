@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
 ## Recursion
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajverma04/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

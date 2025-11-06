@@ -4,14 +4,11 @@ public:
         vector<int> evennumber;
 
         int bitwiseOR = 0;
-        for(auto x : nums) {
-            if(x % 2 == 0) {
-                evennumber.push_back(x);
-            }
-        }
 
-        for(auto x : evennumber) {
-            bitwiseOR = bitwiseOR | x;
+        for(auto x : nums) {
+            if(x % 2 == 0) {        // if x is even
+                bitwiseOR = bitwiseOR | x;      // perform bitwise
+            }
         }
 
         return bitwiseOR;

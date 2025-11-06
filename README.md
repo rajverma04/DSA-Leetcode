@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajverma04/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rajverma04/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
@@ -122,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
 <!---LeetCode Topics End-->

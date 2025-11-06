@@ -1,19 +1,15 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        int min = nums[0], max = nums[0];
+        int mn = nums[0], mx = nums[0];
 
-        for(int i = 0; i < nums.size(); i++) {
-            if(nums[i] < min) {
-                min = nums[i];
-            }
-            if(nums[i] > max) {
-                max = nums[i];
-            }
+        for(auto element : nums) {
+            mn = min(mn, element);
+            mx = max(mx, element);
         }
 
         vector<int> ans;
-        for(int i = min; i <= max; i++) {
+        for(int i = mn; i <= mx; i++) {
             bool isfound = false;
             for(int j = 0; j < nums.size(); j++) {
                 if(i == nums[j]) {

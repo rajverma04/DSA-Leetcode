@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rajverma04/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |

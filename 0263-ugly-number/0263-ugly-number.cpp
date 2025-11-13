@@ -8,6 +8,7 @@ public:
             return true;
         }
         
+        // repeatedly removes these allowed factors: 2, 3, 5
         while(n % 2 == 0) {
             n /= 2;
         }
@@ -18,6 +19,8 @@ public:
             n /= 5;
         }
 
+
+        // after removing the factor 2,3,5 number becomes 1
         return n == 1;
         
     }

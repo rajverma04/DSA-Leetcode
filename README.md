@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/rajverma04/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rajverma04/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rajverma04/DSA-Leetcode/tree/master/0326-power-of-three) |

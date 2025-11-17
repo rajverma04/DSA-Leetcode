@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rajverma04/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/rajverma04/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rajverma04/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

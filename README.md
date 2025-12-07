@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/rajverma04/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |

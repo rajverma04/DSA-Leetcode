@@ -9,6 +9,6 @@ public:
             n -= count;
             count++;
         }
-        return stair;
+        return count - 1;
     }
 };

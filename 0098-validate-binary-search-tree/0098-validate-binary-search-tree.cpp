@@ -12,26 +12,26 @@
 class Solution {
 public:
 
-    void preorder(TreeNode *root, long long &prev, bool &ans) {
+    void inorder(TreeNode *root, long long &prev, bool &ans) {
         if(!root || !ans) {
             return;
         }
 
-        preorder(root->left, prev, ans);
+        inorder(root->left, prev, ans);
         if(prev >= root->val) {
             ans = false;
             return;
         }
         prev = root->val;
 
-        preorder(root->right, prev, ans);
+        inorder(root->right, prev, ans);
     }
     bool isValidBST(TreeNode* root) {
         long long prev = LLONG_MIN;
         bool ans = true;        // assuming tree in BST
         // to check BST in preorder all element are in ascending order means prev element must be greater than the current prorder element
 
-        preorder(root, prev, ans);
+        inorder(root, prev, ans);
 
         return ans;
     }

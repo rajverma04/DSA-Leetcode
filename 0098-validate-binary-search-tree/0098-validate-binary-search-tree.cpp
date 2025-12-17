@@ -30,9 +30,7 @@ public:
         long long prev = LLONG_MIN;
         bool ans = true;        // assuming tree in BST
         // to check BST in preorder all element are in ascending order means prev element must be greater than the current prorder element
-        if(!root->left && !root->right) {
-            return ans;
-        }
+
         preorder(root, prev, ans);
 
         return ans;

@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+
+    // using Recursion
     void inorderTraversal(TreeNode* root, vector<int> &ans) {
         if(!root) {
             return;
@@ -23,6 +25,7 @@ public:
         vector<int> ans;
 
         inorderTraversal(root, ans);
+
         return ans;
     }
 };

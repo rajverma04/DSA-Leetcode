@@ -20,17 +20,16 @@ public:
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        // for(int i = nums.size() / 2 - 1; i >= 0; i--) {
-        //     heapify(nums, nums.size(), i);
-        // }
+        for(int i = nums.size() / 2 - 1; i >= 0; i--) {
+            heapify(nums, nums.size(), i);
+        }
 
-        // // sort
-        // for(int i = nums.size() - 1; i >= 0; i--) {
-        //     swap(nums[i], nums[0]);
-        //     heapify(nums, i, 0);
-        // }
-
-        sort(nums.begin(), nums.end());
+        // sort
+        for(int i = nums.size() - 1; i >= 0; i--) {
+            swap(nums[i], nums[0]);
+            heapify(nums, i, 0);
+        }
+        
 
         return nums;
     }

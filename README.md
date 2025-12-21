@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rajverma04/DSA-Leetcode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajverma04/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajverma04/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajverma04/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

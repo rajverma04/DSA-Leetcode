@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/rajverma04/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
 ## Memoization
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |

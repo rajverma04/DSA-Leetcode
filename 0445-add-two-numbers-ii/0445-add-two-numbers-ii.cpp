@@ -40,8 +40,8 @@ public:
                 st2.pop();
             }
 
-            ListNode *temp = new ListNode(sum % 10);
             carry = sum / 10;
+            ListNode *temp = new ListNode(sum % 10);
 
             // insert at front
             temp->next = head;

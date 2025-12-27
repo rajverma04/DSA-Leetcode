@@ -28,7 +28,7 @@ public:
             temp = curr->next;
             curr = curr->next;
         }
-        // ans.push_back(0);
+
         return ans;
     }
 };

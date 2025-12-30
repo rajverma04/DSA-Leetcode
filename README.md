@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 ## Interactive
 |  |
 | ------- |
@@ -391,5 +393,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/rajverma04/DSA-Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

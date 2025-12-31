@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/rajverma04/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rajverma04/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |

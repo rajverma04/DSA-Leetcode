@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rajverma04/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/rajverma04/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |

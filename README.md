@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
+| [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/rajverma04/DSA-Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |

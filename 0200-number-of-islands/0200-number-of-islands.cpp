@@ -21,7 +21,7 @@ public:
             for (int k = 0; k < 4; k++) {
                 if (check(i + row[k], j + col[k], n, m) &&
                     grid[i + row[k]][j + col[k]] == '1') {
-                    grid[i + row[k]][j + col[k]] = '0';
+                    grid[i + row[k]][j + col[k]] = '0';     // mark that location 0 as already visited
                     q.push({i + row[k], j + col[k]});
                 }
             }

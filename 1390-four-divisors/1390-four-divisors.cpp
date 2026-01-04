@@ -24,9 +24,12 @@ public:
     }
 
     void divisorSum(int num, int &sum) {
-        for(int i = 1; i <= num; i++) {
+        for(int i = 1; i * i <= num; i++) {
             if(num % i == 0) {
                 sum += i;
+                if(i != num / i) {
+                    sum += num / i;
+                }
             }
         }
     }

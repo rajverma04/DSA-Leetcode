@@ -20,6 +20,7 @@ public:
 
         q.push(root);
 
+        // BFS traversal
         while(!q.empty()) {
             int size = q.size();
             int maxi = INT_MIN;

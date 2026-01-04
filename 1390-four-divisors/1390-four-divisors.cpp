@@ -11,8 +11,11 @@ public:
             if(power > 0) {
                 count *= (power + 1);
             }
+            if(count > 4) {
+                break;
+            }
         }
-
+        
         if(n > 1) {
             count *= 2;
         }

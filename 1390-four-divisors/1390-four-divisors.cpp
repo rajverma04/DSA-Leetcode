@@ -34,17 +34,12 @@ public:
         }
     }
     int sumFourDivisors(vector<int>& nums) {
-        vector<pair<int, int>> divisor;
+        vector<int> ans;
 
         for(int it : nums) {
             int div = countDivisor(it);
-            divisor.push_back({it, div});
-        }
-
-        vector<int> ans;
-        for(auto it : divisor) {
-            if(it.second == 4) {
-                ans.push_back(it.first);
+            if(div == 4) {
+                ans.push_back(it);
             }
         }
 

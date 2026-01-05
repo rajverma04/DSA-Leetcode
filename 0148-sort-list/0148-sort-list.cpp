@@ -11,17 +11,17 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        priority_queue<pair<int,ListNode*>, vector<pair<int,ListNode*>>, greater<pair<int,ListNode*>> > pq;
+        priority_queue<int, vector<int>, greater<int> > pq;
         
         ListNode *temp = head;
         while(temp) {
-            pq.push({temp->val, temp});
+            pq.push(temp->val);
             temp = temp->next;
         } 
 
         temp = head;
         while(temp && !pq.empty()) {
-            temp->val = pq.top().first;
+            temp->val = pq.top();
             pq.pop();
             temp = temp->next;
         }

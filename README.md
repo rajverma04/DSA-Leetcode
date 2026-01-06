@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rajverma04/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0162-find-peak-element) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajverma04/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rajverma04/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

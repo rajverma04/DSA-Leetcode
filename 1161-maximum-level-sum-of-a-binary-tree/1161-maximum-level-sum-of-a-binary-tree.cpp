@@ -24,7 +24,7 @@ public:
         while(!q.empty()) {
             int size = q.size();
             int sum = 0;
-            int level = q.front().second;
+            int level = q.front().second;       // current level
 
             for(int i = 0; i < size; i++) {
                 TreeNode *temp = q.front().first;

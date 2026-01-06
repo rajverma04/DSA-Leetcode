@@ -4,7 +4,6 @@ public:
         if(nums.size() == 0) {
             return 0;
         }
-        // unordered_set<int> st;
         sort(nums.begin(), nums.end());
 
         int maxi = 0;

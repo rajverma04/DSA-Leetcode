@@ -3,7 +3,7 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
         vector<vector<pair<int, int>>> adj(n);
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++) {        // convert to normal graph
             for(int j = i + 1; j < n; j++) {
                 int w = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
 

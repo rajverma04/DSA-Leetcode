@@ -1,24 +1,22 @@
 class Solution {
 public:
-    // void find(vector<int> &nums, int i, int &sum, int curr_sum) {
-    //     if(i >= nums.size()) {
-    //         sum = max(sum, curr_sum);
-    //         return;
-    //     }
+    int find(int index, vector<int> nums,int n, vector<int> &dp) {
+        if(index >= n) {
+            return 0;
+        }
 
-    //     find(nums, i + 2, sum, curr_sum + nums[i]);
-    //     find(nums, i + 1, sum, curr_sum);
-    // }
+        if(dp[index] != -1) {
+            return dp[index];
+        }
+
+        dp[index] = max(nums[index] + find(index + 2, nums, n, dp), find(index + 1, nums, n, dp));
+        return dp[index];
+    }
 
     int rob(vector<int>& nums) {
-        int sum = 0, curr_sum = 0;
-
-        // find(nums, 0, sum, curr_sum);
-        for(int x : nums) {
-            int curr = max(sum, curr_sum + x);
-            curr_sum = sum;
-            sum = curr;
-        }
-        return sum;
+        int n = nums.size();
+        vector<int> dp(n + 2, -1);
+        
+        return find(0, nums, n, dp);
     }
 };

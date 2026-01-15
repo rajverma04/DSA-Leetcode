@@ -11,12 +11,6 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        // if(l1->next == NULL) {
-        //     return l1;
-        // }
-        // if(l2->next == NULL) {
-        //     return l2;
-        // }
         ListNode *sum = new ListNode(0);
         ListNode *curr = sum;
         int carry = 0;

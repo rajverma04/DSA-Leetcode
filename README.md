@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1925-count-square-sum-triples](https://github.com/rajverma04/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/rajverma04/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/rajverma04/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/rajverma04/DSA-Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Trie

@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/rajverma04/DSA-Leetcode/tree/master/0742-to-lower-case) |
+| [1143-longest-common-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2211-count-collisions-on-a-road](https://github.com/rajverma04/DSA-Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Brainteaser

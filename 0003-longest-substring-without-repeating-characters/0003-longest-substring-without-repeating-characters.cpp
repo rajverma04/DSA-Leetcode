@@ -12,7 +12,7 @@ public:
         }
         st.insert(s[0]);
         for(int i = 1; i < s.length(); i++) {
-            while(st.find(s[i]) != st.end()) {
+            while(st.find(s[i]) != st.end()) {      // shrink from left
                 st.erase(s[start]);
                 start++;
             }

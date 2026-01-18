@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/rajverma04/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0039-combination-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0075-sort-colors) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |

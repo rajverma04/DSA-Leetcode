@@ -42,7 +42,7 @@ public:
             auto [node, depth] = q.front();
             q.pop();
 
-            if(!node->left && !node->right) {
+            if(!node->left && !node->right) {       // first node with no child
                 return depth;
             }
             if(node->left) {

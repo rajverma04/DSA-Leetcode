@@ -15,10 +15,9 @@ public:
             }
             if(mp.count(rem)) {     // count > 0
                 ans += mp[rem];
-                mp[rem]++;
-            } else {
-                mp[rem] = 1;
             }
+
+            mp[rem]++;
         }
 
         return ans;

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/rajverma04/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/rajverma04/DSA-Leetcode/tree/master/0441-arranging-coins) |
+| [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Queue
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajverma04/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

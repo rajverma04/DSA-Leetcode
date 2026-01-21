@@ -7,7 +7,7 @@ public:
         while(end < nums.size()) {
             mp[nums[end]]++;
             
-            while(mp[nums[end]] > k && start < end) {
+            while(mp[nums[end]] > k && start < end) {       // remove the element until the freq of element > k
                 mp[nums[start]]--;
                 start++;
             }

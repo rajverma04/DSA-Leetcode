@@ -9,9 +9,7 @@ public:
             while(prefixSum >= target && start <= end) {
                 prefixSum -= nums[start];
                 int currSize = end - start + 1;
-                if(currSize <= minSize) {
-                    minSize = currSize;
-                }
+                minSize = min(minSize, currSize);
                 start++;
             }
             end++;

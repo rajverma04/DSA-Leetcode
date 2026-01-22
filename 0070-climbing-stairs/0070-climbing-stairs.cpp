@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int step(int stair, int n, vector<int> &dp) {
-        if(stair == n) {
+    int waysPossible(int n, vector<int> &dp) {
+        if(n == 0) {
             return 1;
         }
-        if(stair > n) {
+        if(n < 0) {
             return 0;
         }
-
-        if(dp[stair] != -1) {
-            return dp[stair];
+        if(dp[n] != -1) {
+            return dp[n];
         }
 
-        dp[stair] = step(stair + 1, n, dp) + step(stair + 2, n, dp);
-        return dp[stair];
+        int left = waysPossible(n - 1, dp);     // for 1 step taking at a time
+        int right = waysPossible(n - 2, dp);    // for 2 step taking at a time
+
+        return dp[n] = left + right;
     }
     int climbStairs(int n) {
-        vector<int> dp(n + 2, -1);
-
-        return step(0, n, dp);
+        vector<int> dp(n + 1, -1);
+        return waysPossible(n, dp);
     }
 };

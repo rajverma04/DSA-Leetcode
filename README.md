@@ -577,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajverma04/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rajverma04/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

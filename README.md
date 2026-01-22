@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rajverma04/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajverma04/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |

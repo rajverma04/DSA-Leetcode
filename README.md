@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rajverma04/DSA-Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Heap (Priority Queue)

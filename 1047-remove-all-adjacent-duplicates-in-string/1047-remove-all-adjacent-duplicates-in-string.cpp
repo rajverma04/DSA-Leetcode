@@ -19,7 +19,7 @@ public:
             str += st.top();
             st.pop();
         }
-        cout << str;
+        
         reverse(str.begin(), str.end());
 
         return str;

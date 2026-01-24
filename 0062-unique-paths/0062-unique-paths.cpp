@@ -17,8 +17,33 @@ public:
         return dp[i][j] = up + left;
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n, -1));
+        // instead of moving top left to bottom right -> moving from bottom right to top left
 
-        return totalPaths(m - 1, n - 1, dp);
+        // vector<vector<int>> dp(m, vector<int>(n, -1));
+
+        // return totalPaths(m - 1, n - 1, dp);
+
+        // Bottom Up 
+        int dp[m][n];
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(i == 0 && j == 0) {
+                    dp[i][j] = 1;
+                } else {
+                    int up = 0;
+                    int left = 0;
+                    if(i > 0) {
+                        up = dp[i - 1][j];      // move up
+                    }
+                    if(j > 0) {
+                        left = dp[i][j - 1];       // move left
+                    }
+                    dp[i][j] = up + left;
+                }
+            }
+        }
+
+        return dp[m - 1][n - 1];
     }
 };

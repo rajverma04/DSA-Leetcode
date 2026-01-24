@@ -20,6 +20,9 @@ public:
         vector<int> dp1(n + 2, -1);
         vector<int> dp2(n + 2, -1);
 
-        return max(find(0, n - 1, nums, dp1), find(1, n, nums, dp2));
+        // find(0, n - 1, nums, dp1) : first ko chori karo, last ko nahi
+        // find(1, n, nums, dp1) : last ko chori karo, first ko nahi
+
+        return max(find(0, n - 1, nums, dp1), find(1, n, nums, dp2));       // max of both
     }
 };

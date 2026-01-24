@@ -44,6 +44,32 @@ public:
             }
         }
 
-        return dp[m - 1][n - 1];
+        // return dp[m - 1][n - 1];
+
+        // space optimized
+        vector<int> prev(m, 0);
+
+        for(int i = 0; i < m; i++) {
+            vector<int> curr(n, 0);
+            for(int j = 0; j < n; j++) {
+                if(i == 0 && j == 0) {
+                    curr[j] = 1;
+                } else {
+                    int up = 0;
+                    int left = 0;
+                    if(i > 0) {
+                        up = prev[j];      // move up
+                    }
+                    if(j > 0) {
+                        left = curr[j - 1];       // move left
+                    }
+                    curr[j] = up + left;
+                }
+            }
+            prev = curr;
+
+        }
+
+        return prev[n - 1];
     }
 };

@@ -13,8 +13,8 @@ public:
         int mind = pq.top().first;
         vector<vector<int>> ans;
         while (!pq.empty() && pq.top().first == mind) {
-            vector<int> temp = {pq.top().second.first, pq.top().second.second};
-            ans.push_back(temp);
+            // vector<int> temp = ;
+            ans.push_back({pq.top().second.first, pq.top().second.second});
             pq.pop();
         }
 

@@ -4,7 +4,7 @@ public:
         priority_queue<pair<int, pair<int, int>>,
                        vector<pair<int, pair<int, int>>>,
                        greater<pair<int, pair<int, int>>>>
-            pq;
+            pq;         // {minDiff, {firstElement, secondElement}}
             sort(arr.begin(), arr.end());
         for (int i = 1; i < arr.size(); i++) {
             pq.push({arr[i] - arr[i - 1], {arr[i - 1], arr[i]}});
@@ -13,7 +13,6 @@ public:
         int mind = pq.top().first;
         vector<vector<int>> ans;
         while (!pq.empty() && pq.top().first == mind) {
-            // vector<int> temp = ;
             ans.push_back({pq.top().second.first, pq.top().second.second});
             pq.pop();
         }

@@ -17,7 +17,7 @@ public:
 
         queue<int> q;
         vector<int> ans;
-
+        // Topological Sort
         for(int i = 0; i < numCourses; i++) {
             if(inDeg[i] == 0) {
                 q.push(i);

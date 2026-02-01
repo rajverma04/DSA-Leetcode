@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rajverma04/DSA-Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/rajverma04/DSA-Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4107-find-missing-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/4107-find-missing-elements) |
 ## Memoization
 |  |

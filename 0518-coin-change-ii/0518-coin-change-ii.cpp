@@ -12,11 +12,14 @@ public:
             return dp[index][amount];
         }
 
-        if(coins[index] > amount) {
-            return dp[index][amount] = find(index - 1, amount, coins, dp);
-        } else {
-            return dp[index][amount] = find(index, amount - coins[index], coins, dp) + find(index - 1, amount, coins, dp);
+        int notTake = find(index - 1, amount, coins, dp);
+        int take = 0;
+        if(coins[index] <= amount) {        // coin agar remaining amount se jada ho jayega to nahi le sakte
+            // usi index pe dubara check karenge kynki coins repeat le sakte hai
+            take = find(index, amount - coins[index], coins, dp);       
         }
+        
+        return dp[index][amount] = take + notTake;
     }
 
     int change(int amount, vector<int>& coins) {

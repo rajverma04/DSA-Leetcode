@@ -1,16 +1,17 @@
 class Solution {
 public:
     int find(int n, int m, string &text1, string &text2, vector<vector<int>> &dp) {
-        if(n == 0 || m == 0) {
-            return 0;
+        if(n == 0 || m == 0) {      // end of string
+            return 0;       // longest string is 0(none)
         }
         if(dp[n][m] != -1) {
             return dp[n][m];
         }
-        if(text1[n - 1] == text2[m - 1]) {
-            return dp[n][m] = 1 + find(n - 1, m - 1, text1, text2, dp);
+        if(text1[n - 1] == text2[m - 1]) {      // at both index char are equal then move index equally by 1
+            return dp[n][m] = 1 + find(n - 1, m - 1, text1, text2, dp);     // +1 each char matched keep adding
         } else {
-            return dp[n][m] = max(find(n - 1, m, text1, text2, dp), find(n, m - 1, text1, text2, dp));
+            // not matched then move one index and other keep at same and return max one
+            return dp[n][m] = max(find(n - 1, m, text1, text2, dp), find(n, m - 1, text1, text2, dp));    // shrink one by one string
         }
     }
 

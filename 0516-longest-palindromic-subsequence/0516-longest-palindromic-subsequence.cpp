@@ -1,3 +1,5 @@
+// Longest Palindromic Subsequence is nothing but LCS of reverse of string
+
 class Solution {
 public:
     int find(int i, int j, string &s1, string &s2, vector<vector<int>> &dp) {

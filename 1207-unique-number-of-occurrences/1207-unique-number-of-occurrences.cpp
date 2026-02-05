@@ -17,10 +17,10 @@ public:
 
         unordered_set<int> st;
         for(auto it : mp) {
-            if(st.count(it.second)) {
+            if(st.count(it.second)) {       // agar ye frequency phle se present hai to return false
                 return false;
             }
-            st.insert(it.second);
+            st.insert(it.second);       // ye frequency present nahi hai to insert krdo
         }
         
         return true;

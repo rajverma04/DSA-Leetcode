@@ -12,7 +12,23 @@ public:
         if(idx == -1) {
             return word;
         }
-        reverse(word.begin(), word.begin() + idx + 1);
+        // reverse(word.begin(), word.begin() + idx + 1);
+        // return word;
+
+
+        stack<char> st;
+        int i = 0;
+        while(i != idx) {
+            st.push(word[i]);
+            i++;
+        }
+        st.push(word[i]);
+        int j = 0;
+        while(!st.empty()) {
+            word[j++] = st.top();
+            st.pop();
+        }
+
         return word;
     }
 };

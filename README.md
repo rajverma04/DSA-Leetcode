@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajverma04/DSA-Leetcode/tree/master/0198-house-robber) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajverma04/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/rajverma04/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rajverma04/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/rajverma04/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |

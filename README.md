@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/rajverma04/DSA-Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
 | [1390-four-divisors](https://github.com/rajverma04/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rajverma04/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -691,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/rajverma04/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

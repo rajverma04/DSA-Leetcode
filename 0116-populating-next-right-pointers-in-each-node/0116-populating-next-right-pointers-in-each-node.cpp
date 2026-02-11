@@ -22,25 +22,26 @@ public:
         if(!root) {
             return root;
         }
-
         queue<Node*> q;
         q.push(root);
 
         while(!q.empty()) {
             int sz = q.size();
-            Node *first = q.front();
+            Node *prev = NULL;
             for(int i = 0; i < sz; i++) {
-                Node *temp = q.front();
+                Node *curr = q.front();
                 q.pop();
-                if(i && i + 1) {
-                    first->next = temp;
-                    first = temp;
+                if(prev != NULL) {
+                    prev->next = curr;
                 }
-                if(temp->left) {
-                    q.push(temp->left);
+
+                prev = curr;
+
+                if(curr->left) {
+                    q.push(curr->left);
                 }
-                if(temp->right) {
-                    q.push(temp->right);
+                if(curr->right) {
+                    q.push(curr->right);
                 }
 
             }

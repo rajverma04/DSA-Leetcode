@@ -24,6 +24,7 @@ public:
         while(!q.empty()) {
             int level = q.front().second;
             int sz = q.size();
+            auto temp = q.front().first;
 
             if(level == depth - 1) {
                 for(int i = 0; i < sz; i++) {
@@ -43,8 +44,7 @@ public:
                     newRight->right = rightChild;
                 }
                 break;
-            }
-            for(int i = 0; i < sz; i++) {
+            } else {
                 TreeNode *temp = q.front().first;
                 q.pop();
                 if(temp->left) {
@@ -54,6 +54,18 @@ public:
                     q.push({temp->right, level + 1});
                 }
             }
+
+
+            // for(int i = 0; i < sz; i++) {
+            //     TreeNode *temp = q.front().first;
+            //     q.pop();
+            //     if(temp->left) {
+            //         q.push({temp->left, level + 1});
+            //     }
+            //     if(temp->right) {
+            //         q.push({temp->right, level + 1});
+            //     }
+            // }
         }
 
         return root;

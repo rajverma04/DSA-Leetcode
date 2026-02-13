@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajverma04/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajverma04/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajverma04/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |

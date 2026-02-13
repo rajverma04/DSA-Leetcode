@@ -14,7 +14,7 @@ public:
         int m = grid[0].size();
         queue<pair<int, int>> q;
         q.push({i, j});
-        grid[i][j] = 0;
+        grid[i][j] = 0;     // marked zero as visited symbol
         int area = 1;
         while (!q.empty()) {
             i = q.front().first;
@@ -24,7 +24,7 @@ public:
             for (int k = 0; k < 4; k++) {
                 if (validMove(i + row[k], j + col[k]) &&
                     grid[i + row[k]][j + col[k]] == 1) {
-                    area++;
+                    area++;                               // increase the area by one unit
                     grid[i + row[k]][j + col[k]] = 0;     // mark that location 0 as already visited
                     q.push({i + row[k], j + col[k]});
                 }

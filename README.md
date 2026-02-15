@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/rajverma04/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rajverma04/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rajverma04/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rajverma04/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajverma04/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rajverma04/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rajverma04/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajverma04/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |

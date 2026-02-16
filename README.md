@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/rajverma04/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/rajverma04/DSA-Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rajverma04/DSA-Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rajverma04/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rajverma04/DSA-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/rajverma04/DSA-Leetcode/tree/master/0079-word-search) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rajverma04/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rajverma04/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rajverma04/DSA-Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rajverma04/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/rajverma04/DSA-Leetcode/tree/master/0127-word-ladder) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajverma04/DSA-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0100-same-tree) |

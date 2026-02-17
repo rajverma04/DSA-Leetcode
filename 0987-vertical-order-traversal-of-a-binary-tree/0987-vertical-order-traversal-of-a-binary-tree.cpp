@@ -31,18 +31,19 @@ public:
 
             mp[col][row].insert(node->val);
             if(node->left) {
-                q.push({node->left, {col - 1, row + 1}});
+                q.push({node->left, {col - 1, row + 1}});       // left col wrt root
             }
             if(node->right) {
-                q.push({node->right, {col + 1, row + 1}});
+                q.push({node->right, {col + 1, row + 1}});      // right col wrt root
             }
         }
 
         for(auto &col : mp) {
             vector<int> temp;
             for(auto row : col.second) {
-                auto &vec = row.second;
-                temp.insert(temp.end(), vec.begin(), vec.end());
+                auto &val = row.second;
+                // insert(position, startIterator, endIterator)
+                temp.insert(temp.end(), val.begin(), val.end());
             }
             ans.push_back(temp);
         }

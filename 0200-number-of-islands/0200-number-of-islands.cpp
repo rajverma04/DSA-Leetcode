@@ -9,9 +9,9 @@ public:
 
         int n = grid.size();
         int m = grid[0].size();
-        queue<pair<int, int>> q;
+        queue<pair<int, int>> q;        // {row, col}
         q.push({i, j});
-        grid[i][j] = '0';
+        grid[i][j] = '0';               // mark 0 as a symbol of visited
 
         while (!q.empty()) {
             i = q.front().first;
@@ -32,8 +32,8 @@ public:
         int m = grid[0].size();
         int count = 0; // no of islands
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        for (int i = 0; i < n; i++) {           // row
+            for (int j = 0; j < m; j++) {       // col
                 if (grid[i][j] == '1') {
                     // grid[i][j] = '0';
                     count++;

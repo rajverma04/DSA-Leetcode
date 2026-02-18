@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajverma04/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajverma04/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rajverma04/DSA-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |

@@ -9,8 +9,8 @@ public:
         if(st.empty()) {
             st.push({val, val});
         } else {
-            int min = val < st.top().second ? val : st.top().second;
-            st.push({val, min});
+            int mini = min(val, st.top().second);
+            st.push({val, mini});
         }
 
     }

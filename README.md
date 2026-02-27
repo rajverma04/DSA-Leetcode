@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/rajverma04/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rajverma04/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0263-ugly-number) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rajverma04/DSA-Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/rajverma04/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajverma04/DSA-Leetcode/tree/master/0120-triangle) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0101-symmetric-tree) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0101-symmetric-tree) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0450-delete-node-in-a-bst) |

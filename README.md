@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rajverma04/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajverma04/DSA-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0047-permutations-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajverma04/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajverma04/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0055-jump-game) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajverma04/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0143-reorder-list) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |

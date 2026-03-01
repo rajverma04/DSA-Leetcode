@@ -38,6 +38,7 @@ public:
             int leftMax = maxLeft(height, i);
             int rightMax = maxRight(height, i);
 
+            // water level  = min(left, right) - currentHeight
             water += min(leftMax, rightMax) - height[i];
         }
 

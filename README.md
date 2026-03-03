@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajverma04/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajverma04/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajverma04/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajverma04/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/rajverma04/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |

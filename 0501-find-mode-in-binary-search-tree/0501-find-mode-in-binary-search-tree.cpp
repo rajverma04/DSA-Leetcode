@@ -11,33 +11,38 @@
  */
 class Solution {
 public:
-    unordered_map<int, int> freq;
-    void dfs(TreeNode* root) {
+    vector<int> ans;
+    int count = 0;
+    int maxCount = 0;
+    TreeNode* prev = NULL;
+    void inorder(TreeNode* root) {
         if(!root) {
             return;
         }
 
-        freq[root->val]++;
-        dfs(root->left);
-        dfs(root->right);
-    }
-    vector<int> findMode(TreeNode* root) {
-        vector<int> ans;
-        // if(!root->left && !root->right) {
-        //     return {root->val};
-        // }
-        dfs(root);
-        int mostFreq = 0;
-        for(auto it : freq) {
-            mostFreq = max(mostFreq, it.second);
+        inorder(root->left);
+        if(prev && prev->val == root->val) {
+            count++;
+        } else {
+            count = 1;
         }
 
-        for(auto it : freq) {
-            if(it.second == mostFreq) {
-                ans.push_back(it.first);
-            }
+        if(count > maxCount) {
+            maxCount = count;
+            ans.clear();
+            ans.push_back(root->val);
+        } else if(count == maxCount) {
+            ans.push_back(root->val);
         }
-        // ans.push_back(mostFreq);
+
+        prev = root;
+        
+        inorder(root->right);
+    }
+    vector<int> findMode(TreeNode* root) {
+        
+        inorder(root);
+
         return ans;
     }
 };

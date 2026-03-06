@@ -11,7 +11,7 @@ public:
         }
         
         for(int jump = 1; jump <= nums[idx]; jump++) {
-            if(find(idx + jump, n, nums)) {
+            if(find(idx + jump, n, nums)) {     // can jump
                 return dp[idx] = true;
             }
         }
@@ -19,9 +19,20 @@ public:
         return dp[idx] = false;
     }
     bool canJump(vector<int>& nums) {
-        int n = nums.size();
-        dp.assign(n, -1);
+        // int n = nums.size();
+        // dp.assign(n, -1);
 
-        return find(0, n, nums);
+        // return find(0, n, nums);
+       
+        // M2: Greedy
+        int maxIdx = 0;     // max index can jump
+        for(int i = 0; i < nums.size(); i++) {
+            if(i > maxIdx) {
+                return false;
+            }
+            maxIdx = max(maxIdx, i + nums[i]);
+        }
+
+        return true;
     }
 };

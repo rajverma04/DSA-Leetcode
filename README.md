@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/rajverma04/DSA-Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/rajverma04/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/rajverma04/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/rajverma04/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/rajverma04/DSA-Leetcode/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |

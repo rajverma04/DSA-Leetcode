@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool lemonadeChange(vector<int>& bills) {
+        int five = 0, ten = 0;
+        for(auto cost : bills) {
+            if(cost == 5) {
+                five += 1;
+            } else if(cost == 10) {
+                if(five) {
+                    five -= 1;
+                    ten += 1;
+                } else {
+                    return false;
+                }
+            } else {
+                if(five && ten) {
+                    ten -= 1;
+                    five -= 1;
+                } else if(five >= 3) {
+                    five -= 3;
+                } else {
+                    return false;
+                }
+            }
+        }        
+
+        return true;
+    }
+};

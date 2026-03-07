@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
 | [1390-four-divisors](https://github.com/rajverma04/DSA-Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rajverma04/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/rajverma04/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -831,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -898,4 +904,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

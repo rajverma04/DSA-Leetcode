@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/rajverma04/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajverma04/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |

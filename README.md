@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/rajverma04/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajverma04/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## String Matching
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajverma04/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/rajverma04/DSA-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/rajverma04/DSA-Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
@@ -865,10 +868,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## Graph
 |  |
 | ------- |
@@ -931,4 +936,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

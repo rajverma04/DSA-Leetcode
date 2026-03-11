@@ -9,6 +9,11 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+/* 
+    inorder traversal in BST make the element in sorted so find that tho element which is not sorted
+
+*/
 class Solution {
 public:
     TreeNode* prev = NULL;
@@ -20,11 +25,11 @@ public:
         }
 
         inorder(root->left);
-        if(prev && prev->val > root->val) {
-            if(!first) {
-                first = prev;
+        if(prev && prev->val > root->val) {     // if prev val is greater than current root val it means element is not sorted
+            if(!first) {    
+                first = prev;       // store the first address which is not sorted
             }
-            second = root;
+            second = root;          // store the second element which is smaller 
         }
 
         prev = root;

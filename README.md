@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/rajverma04/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## String Matching
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/rajverma04/DSA-Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |

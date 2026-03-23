@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajverma04/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajverma04/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |

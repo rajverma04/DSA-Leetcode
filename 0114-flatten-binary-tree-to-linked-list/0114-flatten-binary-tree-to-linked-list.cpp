@@ -11,23 +11,18 @@
  */
 class Solution {
 public:
+    // it uses preorder traversal
+    TreeNode *nextRight = NULL;
+
     void flatten(TreeNode* root) {
-        
-        while(root) {
-            if(root->left) {
-                TreeNode *curr = root->left;
-                while(curr->right) {
-                    curr = curr->right;
-                }
-                
-                curr->right = root->right;
-                root->right = root->left;
-                root->left = NULL;
-                
-                root = root->right;
-            } else {
-                root = root->right;
-            }
+        if(!root) {
+            return;
         }
+        flatten(root->right);
+        flatten(root->left);
+
+        root->left = NULL;
+        root->right = nextRight;
+        nextRight = root;
     }
 };

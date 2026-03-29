@@ -9,11 +9,11 @@ public:
         this->parent = parent;
         sz = parent.size();
         node = vector<pair<string, int>>(sz, {"unlocked", -1});
-        children.resize(sz);
 
+        children.resize(sz);
         for (int i = 0; i < sz; i++) {
             if (parent[i] != -1) {
-                children[parent[i]].push_back(i);
+                children[parent[i]].push_back(i);       // store only direct child
             }
         }
     }
@@ -38,9 +38,9 @@ public:
         bool found = false;
 
         for (int child : children[curr]) {
-            if (node[child].first == "locked") {
-                found = true;
-                lockedindex.push_back(child);
+            if (node[child].first == "locked") {        // node is locked
+                found = true;   
+                lockedindex.push_back(child);           // index of locked node
             }
             if (dfs(child, lockedindex)) {
                 found = true;
@@ -60,15 +60,16 @@ public:
             p = parent[p];
         }
 
-        vector<int> lockedindex;
-        if (!dfs(num, lockedindex))
+        vector<int> lockedindex;            // store the locked descendent node
+        if (!dfs(num, lockedindex)) {       // getting locked descendet node using DFS
             return false;
+        }
 
-        for (int i : lockedindex) {
+        for (int i : lockedindex) {         // mark all descendent locked node to unlock
             node[i] = {"unlocked", -1};
         }
 
-        node[num] = {"locked", user};
+        node[num] = {"locked", user};       // mark that current node which need to upgrade locked
         return true;
     }
 };

@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/rajverma04/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/rajverma04/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rajverma04/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajverma04/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajverma04/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/rajverma04/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |

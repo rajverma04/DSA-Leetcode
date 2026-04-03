@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/rajverma04/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/rajverma04/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/rajverma04/DSA-Leetcode/tree/master/0860-lemonade-change) |
 ## Math
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rajverma04/DSA-Leetcode/tree/master/0705-design-hashset) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajverma04/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/rajverma04/DSA-Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/rajverma04/DSA-Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |

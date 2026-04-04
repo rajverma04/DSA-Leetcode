@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rajverma04/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0437-path-sum-iii) |
@@ -860,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/rajverma04/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/rajverma04/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -935,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajverma04/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rajverma04/DSA-Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |

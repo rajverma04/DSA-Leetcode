@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/rajverma04/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/rajverma04/DSA-Leetcode/tree/master/0622-design-circular-queue) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rajverma04/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rajverma04/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/rajverma04/DSA-Leetcode/tree/master/0799-champagne-tower) |
 | [0823-binary-trees-with-factors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0823-binary-trees-with-factors) |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/rajverma04/DSA-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajverma04/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rajverma04/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0623-add-one-row-to-tree) |

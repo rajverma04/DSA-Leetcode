@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/rajverma04/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/rajverma04/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rajverma04/DSA-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rajverma04/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rajverma04/DSA-Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rajverma04/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rajverma04/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/rajverma04/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |

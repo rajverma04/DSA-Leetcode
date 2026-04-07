@@ -38,10 +38,8 @@ public:
             }
             node = node->links[idx];
         }
-        if(!node->isEnd) {
-            return false;
-        }
-        return true;
+       
+        return node->isEnd;
     }
     
     bool startsWith(string prefix) {

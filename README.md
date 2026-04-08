@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rajverma04/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rajverma04/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0823-binary-trees-with-factors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0823-binary-trees-with-factors) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |

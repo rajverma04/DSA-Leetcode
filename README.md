@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/rajverma04/DSA-Leetcode/tree/master/0799-champagne-tower) |
 | [0823-binary-trees-with-factors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0877-stone-game](https://github.com/rajverma04/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/rajverma04/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rajverma04/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajverma04/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rajverma04/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/rajverma04/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/rajverma04/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -1062,4 +1067,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/rajverma04/DSA-Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

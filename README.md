@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajverma04/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rajverma04/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |

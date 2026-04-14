@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/rajverma04/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rajverma04/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/rajverma04/DSA-Leetcode/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rajverma04/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/rajverma04/DSA-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/rajverma04/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajverma04/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/rajverma04/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/rajverma04/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |

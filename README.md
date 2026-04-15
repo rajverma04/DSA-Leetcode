@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rajverma04/DSA-Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2000-reverse-prefix-of-word](https://github.com/rajverma04/DSA-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/rajverma04/DSA-Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3713-longest-balanced-substring-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |

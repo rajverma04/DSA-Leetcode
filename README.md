@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajverma04/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajverma04/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajverma04/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/rajverma04/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/rajverma04/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajverma04/DSA-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rajverma04/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |

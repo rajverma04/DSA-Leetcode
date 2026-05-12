@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rajverma04/DSA-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/rajverma04/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajverma04/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-clumsy-factorial](https://github.com/rajverma04/DSA-Leetcode/tree/master/1048-clumsy-factorial) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/rajverma04/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/rajverma04/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |
@@ -990,12 +992,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/rajverma04/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/rajverma04/DSA-Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/rajverma04/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajverma04/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/rajverma04/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/rajverma04/DSA-Leetcode/tree/master/1472-design-browser-history) |
 ## Graph
 |  |

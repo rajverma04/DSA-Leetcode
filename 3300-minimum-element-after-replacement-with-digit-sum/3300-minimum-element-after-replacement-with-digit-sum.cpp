@@ -11,10 +11,12 @@ public:
         return sum;
     }
     int minElement(vector<int>& nums) {
+        int mini = INT_MAX;
         for(int i = 0; i < nums.size(); i++) {
             nums[i] = sumOfDigit(nums[i]);
+            mini = min(mini, nums[i]);
         }
 
-        return *min_element(nums.begin(), nums.end());
+        return mini;
     }
 };

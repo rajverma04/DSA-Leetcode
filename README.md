@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajverma04/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/rajverma04/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajverma04/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rajverma04/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |

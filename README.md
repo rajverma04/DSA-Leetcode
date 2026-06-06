@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rajverma04/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rajverma04/DSA-Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajverma04/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2574-left-and-right-sum-differences](https://github.com/rajverma04/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajverma04/DSA-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rajverma04/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |

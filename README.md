@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rajverma04/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajverma04/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rajverma04/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rajverma04/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/rajverma04/DSA-Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajverma04/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajverma04/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajverma04/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rajverma04/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1993-operations-on-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1993-operations-on-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajverma04/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rajverma04/DSA-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajverma04/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajverma04/DSA-Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
